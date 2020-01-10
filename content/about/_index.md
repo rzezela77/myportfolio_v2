@@ -19,4 +19,4 @@ Actualmente, desenvolvo aplicações web *(dashboard reporting)* em *R Shiny* qu
 
 Pretendo extrair *insights sobre os seus dados* porque não estão sendo devidamente utilizados, ou seja estão subaproveitados. São considerados dados mortos. Quero aplicar *Analytics* para tomar decisões informadas e não com base em intuições ou pálpites.
 
-Quero que a sua empresa seja competitiva no mundo moderno adoptando a tecnologia de *Machine Learning e Predictive Analytics*, caso contrário estará condenada ao fracasso. E eu estou aqui para te ajudar a fazer essa transição.
+Desejo que a sua empresa seja competitiva no mundo moderno adoptando a tecnologia de *Machine Learning e Predictive Analytics*, caso contrário estará condenada ao fracasso. E eu estou aqui para te ajudar a fazer essa transição.
