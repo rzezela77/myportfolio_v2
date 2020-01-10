@@ -6,8 +6,17 @@ description: This is meta description.
 title: About
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Minha mensagem para si:
+Se vocês não conseguem extrair *insights sobre os dados que produzem*, então estou aqui para vos ajudar. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+### Podemos aplicar *Data Analytics* no seu negócio
+
+Eu sou um Analista de Dados, consultor de Business Intelligence e um empreendedor em *Data Science* área pelo qual estou apaixonado. Por mais de 10 anos trabalhei como Senior PL/SQL Developer em telecom.
+Também sou docente de Estatística Multivariada na Universidade Eduardo Mondlane, Mozambique. 
+
+Actualmente, desenvolvo aplicações web *(dashboard reporting)* em *R Shiny* que permite transformar seu relatório em Excel para um aplicativo web.
+
+Pretendo extrair *insights sobre os seus dados* porque não estão sendo devidamente utilizados, ou seja estão subaproveitados. São considerados dados mortos. Quero aplicar *Analytics* para tomar decisões informadas e não com base em intuições ou pálpites.
+
+Quero que a sua empresa seja competitiva no mundo moderno adoptando a tecnologia de *Machine Learning e Predictive Analytics*, caso contrário estará condenada ao fracasso. E eu estou aqui para te ajudar a fazer essa transição.
