@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Nós automatizamos todo o processo de produção de relatórios, libertando-o de trabalhos rotineiros para se focar em estratégias para aumento de produtividade. Adoptando Dashboard reporting permitirá monitorar o crescimento e a saúde da sua empresa, facilitando a tomada de decisão."
   button:
     enable : true
     label : "know more"
@@ -16,19 +16,19 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
+    - title : "R"
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
-      progress : "60%"
+    - title : "Shiny Developer"
+      progress : "95%"
       color : "#9473e6"
       
-    - title : "After Effects"
-      progress : "80%"
+    - title : "Advanced Oracle PL/SQL"
+      progress : "85%"
       color : "#bdecf6"
       
-    - title : "Web App"
+    - title : "Machine Learning"
       progress : "70%"
       color : "#ffbcaa"
 
@@ -38,61 +38,70 @@ experience:
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Junior Software Developer"
+      company : "INTERBANCOS, LDA"
+      duration : "Nov 2002 - Sep 2007"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Senior PL/SQL Developer"
+      company : "Mcel"
+      duration : "Out 2007 - Sep 2017"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Lecturer of Statistics Multivariate"
+      company : "UNIVERSIDADE EDUARDO MONDLANE"
+      duration : "Sep 2003 - Present"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Data Science Entrepreneur"
+      company : "RZ ANALYTICA"
+      duration : "Jan 2019 - Present"      
 
 # education
 education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "MSc in Big Data Analytic"
+      year : "2018"
+      academy : "University of Derby, UK"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "PGDip in Leardership in ICT"
+      year : "2014"
+      academy : "Dublin City University, Ireland"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
+    - title : "BSc in Computer Science"
+      year : "2002"
+      academy : "Universidade Eduardo Mondlane, Mozambique"
       
     - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+      year : "1997"
+      academy : "Escola 25 de Setembro, Quelimane"
 
 # service
 service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "Transformar relatório Excel em aplicativo web"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "A web já provou ser a plataforma de comunicação mais eficiente do mundo, até então. Por isso, o ambiente web é onde você deve estar."
       highlighted : false
-
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      
+    - title : "Consultoria em Data Science e Business Intelligence: Dashboards & Visualization"
+      icon : "ti-panel"
+      content : "Desenvolvemos os mais avançados dashboard aplicativos em web usando R Shiny. Podemos aplicar as técnicas de Machine Learning e Predictive Analytics nos seus negócios com vista a extrair insights valiosos."
       highlighted : true
 
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Criar reports automaticamente"
+      icon : "ti-vector"
+      content : "Já não precisa de estar dependente de um expert em Excel para lhe enviar os reports por emails. Os nossos reports ficam disponíveis online 24/7/365. Assim, todos os colaboradores ficam actualizados com os últimos resultados."
       highlighted : false
 
+    - title : "Curso em R para Data Analytics"
+      icon : "ti-panel"
+      content : "Providenciamos cursos à particulares e empresas para exploração de dados e visualização."
+      highlighted : true
 # portfolio
 portfolio:
   enable : true

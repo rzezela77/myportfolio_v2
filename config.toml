@@ -3,7 +3,7 @@ baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Reinaldo Zezela Portfolio"
 
 # css plugins
 [[params.plugins.css]]
@@ -59,11 +59,11 @@ logo = "images/logo.png"
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+phone = "+258 823500003"
+email = "rzezela@gmail.com"
+address = "Rua Antonio Da Conceicao 155, 2o andar, Maputo, Mozambique"
 # meta description
-author = "Johnathan Smith"
+author = "Reinaldo Zezela"
 description = "This is meta description"
 # google analitycs
 google_analitycs_id = "Your ID"
