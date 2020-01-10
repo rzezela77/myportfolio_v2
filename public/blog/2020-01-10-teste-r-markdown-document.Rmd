@@ -1,0 +1,10 @@
+---
+title: Teste R Markdown document
+author: Reinaldo Zezela
+date: '2020-01-10'
+slug: teste-R-Markdown-document
+categories:
+  - R
+tags:
+  - R Markdown
+---
