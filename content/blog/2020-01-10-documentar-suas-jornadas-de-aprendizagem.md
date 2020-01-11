@@ -15,9 +15,11 @@ tags:
 
 ![Photo by LinkedIn Sales Navigator on Unsplash](images/blog/linkedin-sales-navigator-EI50ZDA-l8Y-unsplash.jpg)
 
-Primeiro, permitam-me manifestar a minha emoção por lançar o meu primeiro blog depois de alguma ponderação sobre a *criação dos conteúdos*. Mas, felizmente após algumas buscas na internet encontrei excelentes artigos que me encorajaram a avançar nesse sentido.
+Primeiro, permitam-me manifestar a minha emoção por lançar o meu primeiro blog depois de alguma ponderação sobre a *criação dos conteúdos*. Mas, felizmente após algumas buscas na internet encontrei excelentes artigos que me encorajaram a avançar nesse sentido, criar blog.
 
-Nos últimos tempos tenho estado focado em desenvolver aplicações *dashboard em web* usando *R Shiny*. O RStudio IDE (https://www.rstudio.com) é a ferramenta de eleição. O processo de exploração de dados e visualização dos mesmos para resolver problemas reais no mundo dos negócios e o mais importante trazer soluções que agregam valor as empresas tem sido uma experiência bastante gratificante. Por isso, pretendo partilhar essa minha experiência em aplicar *Data Science* nos negócios com a *comunidade R em português*.
+Nos últimos tempos tenho estado focado em desenvolver aplicações *dashboard em web* usando *R Shiny*. O RStudio IDE (https://www.rstudio.com) é a ferramenta de eleição para a exploração e análise de dados bem como a sua visualização.
+
+Tem sido muito gratificante resolver problemas reais no mundo dos negócios e o mais importante trazer soluções que agregam valor as empresas. Por isso, pretendo partilhar essa minha experiência em aplicar *Data Science* nos negócios com a *comunidade R em português*.
 
 Pretendo expressar-me ou melhor, documentar todo o processo de aprendizagem sobre as minhas conquistas e fracassos no respeitante a concepção, desenho e implementação de projectos relacionado com *data product*, enquanto *Shiny developer*.
 
