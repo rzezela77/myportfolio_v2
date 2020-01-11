@@ -1,41 +1,28 @@
 # portfolio item
 item:
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "design"
+  - image : "images/portfolio/executive_dashboard.png"
+    project_url : "https://rzezela.shinyapps.io/dashboard_bikes/"
+    category: "dashboard"
       
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/Logo_RZ_Analytica_v6.png"
     project_url : "#"
     category: "branding"
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
+  - image : "images/portfolio/Forecasting_Monthly_Revenue.png"
+    project_url : "https://rzezela.shinyapps.io/dashboard_bikes/"
+    category: "forecasting"
+    
+  - image : "images/portfolio/Monthly_Revenue_by_Product_Type.png"
+    project_url : "https://rzezela.shinyapps.io/dashboard_bikes/"
+    category: "dashboard"
       
-  - image : "images/portfolio/item-5.png"
-    project_url : "#"
-    category: "design"
+  #- image : "images/portfolio/item-8.png"
+  #  project_url : "http://examplesite.com"
+  #  category: "illustration"
       
-  - image : "images/portfolio/item-8.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
-      
-  - image : "images/portfolio/item-6.png"
-    project_url : "#"
-    category: "design"
-      
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
-      
-  - image : "images/portfolio/item-3.png"
-    project_url : "#"
-    category: "illustration"
-      
-  - image : "images/portfolio/item-7.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
-
+  #- image : "images/portfolio/item-6.png"
+  #  project_url : "#"
+  #  category: "design"
 
 # client logo slider
 clients_logo_slider:

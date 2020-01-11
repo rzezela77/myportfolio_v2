@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Oi! Podemos aplicar Data Analytics no seu negócio"
+  title : "Oi! Posso ajudar-te a extrair insights do seu negócio aplicando Data Analytics"
 
 # about
 about:
   enable : true
-  content : "Nós automatizamos todo o processo de produção de relatórios, libertando-o de trabalhos rotineiros para se focar em estratégias para aumento de produtividade. Adoptando Dashboard reporting permitirá monitorar o crescimento e a saúde da sua empresa, facilitando a tomada de decisão."
+  content : "Nós automatizamos todo o processo de produção de relatórios, libertando-o de trabalhos rotineiros para se focar em estratégias para aumento de produtividade. Adoptando Predictive Analytics (aplicativo web dashboard reporting) permitirá monitorar o crescimento e a saúde da sua empresa bem como prever futuros eventos com base em dados históricos, facilitando deste modo à tomada de decisão."
   button:
     enable : true
     label : "know more"
@@ -88,7 +88,7 @@ service:
       content : "A web já provou ser a plataforma de comunicação mais eficiente do mundo, até então. Por isso, o ambiente web é onde você deve estar."
       highlighted : false
       
-    - title : "Consultoria em Data Science e Business Intelligence: Dashboards & Visualization"
+    - title : "Consultoria em Business Intelligence & Analytics: Dashboards & Visualization"
       icon : "ti-panel"
       content : "Desenvolvemos os mais avançados dashboard aplicativos em web usando R Shiny. Podemos aplicar as técnicas de Machine Learning e Predictive Analytics nos seus negócios com vista a extrair insights valiosos."
       highlighted : true
