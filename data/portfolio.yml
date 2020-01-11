@@ -15,6 +15,10 @@ item:
   - image : "images/portfolio/Monthly_Revenue_by_Product_Type.png"
     project_url : "https://rzezela.shinyapps.io/dashboard_bikes/"
     category: "dashboard"
+    
+  - image : "images/portfolio/rstudio_image.png"
+    project_url : "#"
+    category: "branding"
       
   #- image : "images/portfolio/item-8.png"
   #  project_url : "http://examplesite.com"
