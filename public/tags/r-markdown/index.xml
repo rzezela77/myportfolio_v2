@@ -20,14 +20,5 @@
       <description>Introdução Primeiro, permitam-me manifestar a minha emoção por lançar o meu primeiro blog depois de alguma ponderação sobre a criação dos conteúdos.</description>
     </item>
     
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
-    </item>
-    
   </channel>
 </rss>
