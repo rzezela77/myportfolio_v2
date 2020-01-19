@@ -83,8 +83,12 @@ preloader = "" # use png, jpg, svg or gif format
 
 # social site
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/rzezela"
 icon = "ti-facebook"
+
+[[params.social]]
+URL = "https://www.linkedin.com/in/reinaldo-zezela-11404433/"
+icon = "ti-linkedin"
 
 [[params.social]]
 URL = "#"

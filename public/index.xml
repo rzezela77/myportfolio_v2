@@ -20,5 +20,14 @@
       <description>Introdução Primeiro, permitam-me manifestar a minha emoção por lançar o meu primeiro blog depois de alguma ponderação sobre a criação dos conteúdos.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/blog/previsao_demanda_r_usando_prophet_package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/previsao_demanda_r_usando_prophet_package/</guid>
+      <description>Previsão de Demanda em R usando prophet package/*!</description>
+    </item>
+    
   </channel>
 </rss>

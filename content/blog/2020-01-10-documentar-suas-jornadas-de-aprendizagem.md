@@ -19,7 +19,7 @@ Primeiro, permitam-me manifestar a minha emoção por lançar o meu primeiro blo
 
 Nos últimos tempos tenho estado focado em desenvolver aplicações *dashboard em web* usando *R Shiny*. O RStudio IDE (https://www.rstudio.com) é a ferramenta de eleição para a exploração e análise de dados bem como a sua visualização.
 
-Tem sido muito gratificante resolver problemas reais no mundo dos negócios e o mais importante trazer soluções que agregam valor as empresas. Por isso, pretendo partilhar essa minha experiência em aplicar *Data Science* nos negócios com a *comunidade R em português*.
+Tem sido muito gratificante resolver problemas reais no mundo dos negócios e o mais importante trazer soluções que agregam valor as empresas. Por isso, quero partilhar essa minha experiência em aplicar *Data Science* nos negócios com a *comunidade R em português*.
 
 Pretendo expressar-me ou melhor, documentar todo o processo de aprendizagem sobre as minhas conquistas e fracassos no respeitante a concepção, desenho e implementação de projectos relacionado com *data product*, enquanto *Shiny developer*.
 
