@@ -22,6 +22,15 @@
     
     <item>
       <title></title>
+      <link>/blog/customer_segmentation_rfm_scores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/customer_segmentation_rfm_scores/</guid>
+      <description>Segmentação de Clientes em R usando RFM score/*!</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/blog/previsao_demanda_r_usando_prophet_package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
