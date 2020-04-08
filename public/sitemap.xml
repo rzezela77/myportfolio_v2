@@ -62,4 +62,9 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>/blog/regressao_linear_simples_em_r/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
