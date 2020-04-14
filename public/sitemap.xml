@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/blog/aula_pratica_regressao_linear_multipla_v2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/customer_segmentation_rfm_scores/</loc>
     <priority>0</priority>
   </url>
