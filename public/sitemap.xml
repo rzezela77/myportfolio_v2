@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>/blog/create_function_automate_plotting_tasks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/customer_segmentation_rfm_scores/</loc>
     <priority>0</priority>
   </url>
