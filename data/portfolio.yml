@@ -1,5 +1,9 @@
 # portfolio item
 item:
+  - image : "images/portfolio/cdc-k0KRNtqcjfw-unsplash.jpg"
+    project_url : "https://rzezela.shinyapps.io/COVID19/"
+    category: "dashboard"
+    
   - image : "images/portfolio/executive_dashboard.png"
     project_url : "https://rzezela.shinyapps.io/dashboard_bikes/"
     category: "dashboard"
