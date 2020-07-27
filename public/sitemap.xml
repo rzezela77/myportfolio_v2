@@ -52,29 +52,4 @@
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
-  <url>
-    <loc>/blog/aula_pratica_regressao_linear_multipla_v2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/create_function_automate_plotting_tasks/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/customer_segmentation_rfm_scores/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/previsao_demanda_r_usando_prophet_package/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/regressao_linear_simples_em_r/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
